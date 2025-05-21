@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Automation Engineer | Test Strategist | Lifelong Learner</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
 </div>
 
 ---
@@ -16,7 +16,7 @@
 
 ### 🛠 Tech Stack:
 - 💻 **Languages**: Java, Ruby, TypeScript
-- 🔧 **Testing Tools**: Selenium, Playwright, Cypress, REST Assured, Appium
+- 🔧 **Testing Tools**: Selenium, Playwright, Cypress, REST Assured, Capybara, Cucumber
 - 🧪 **Test Management**: Jira, Xray
 - ⚙️ **DevOps**: GitHub Actions, Jenkins, Docker
 - 🗂 **Version Control**: Git, GitHub, Bitbucket

@@ -1,37 +1,45 @@
-<h1 align="center">Hello Folks 👋 I'm Nagaraja Rao Gaddale</h1>
-<h3 align="center">A Passionate Automation Engineer</h3>
+<h1 align="center">Hi there 👋 I'm Nagaraja Rao Gaddale</h1>
+<h3 align="center">🚀 Passionate Automation Engineer | Test Strategist | Lifelong Learner</h3>
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<p>
-</p>  
 
-- 🌱 I’m currently learning **Playwright**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Gaddale](https://github.com/Gaddale)
-
-- 💬 Ask me about **Automation Challanges**
-
-- 📫 How to reach me **nagaraja.gaddale@gmail.com**
-
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/gaddale82/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=prit-misik&style=flat-square&color=blue" alt=""/>
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gaddale&theme=dark&background=000000)](https://git.io/streak-stats)
+- 🌱 Currently exploring **Playwright** for modern end-to-end automation
+- 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/Gaddale)
+- 💬 Ask me about **Automation Challenges**
+- 📫 Reach me at: **nagaraja.gaddale@gmail.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaddale&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### 🛠 Tech Stack:
+- 💻 **Languages**: Java, Ruby, TypeScript
+- 🔧 **Testing Tools**: Selenium, Playwright, Cypress, REST Assured, Appium
+- 🧪 **Test Management**: Jira, Xray
+- ⚙️ **DevOps**: GitHub Actions, Jenkins, Docker
+- 🗂 **Version Control**: Git, GitHub, Bitbucket
+
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gaddale82/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gaddale&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
+
+---
+
+### :fire: My GitHub Stats
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=gaddale&theme=dark&background=000000" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaddale&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+</p>

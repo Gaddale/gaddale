@@ -6,7 +6,7 @@
 </p>
 
 
-- 🌱 Currently exploring **Playwright** for modern end-to-end automation
+- 🌱 Currently exploring LLM's, Prompts Eng, Generative AI, AI Agents(n8n & Langflow), MCP and RAG
 - 👨‍💻 All of my projects are available at [GitHub Projects](https://github.com/Gaddale?tab=repositories)
 - 💬 Ask me about **Automation Challenges**
 - 📫 Reach me at: **nagaraja.gaddale@gmail.com**
